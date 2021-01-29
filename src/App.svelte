@@ -3,7 +3,7 @@
 </script>
 
 <main>
-	<h1>Hello222 asamizu すげーなname}!</h1>
+	<h1>Hello222 asamizu すげーな{name}!</h1>
 	<p>Visit the <a href="https://svelte.dev/tutorial">Svelte tutorial</a> to learn how to build Svelte apps.</p>
 </main>
 
