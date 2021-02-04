@@ -1,9 +1,14 @@
 <script>
 	export let name;
+	const asa =1234;
+	function greeting() {
+    console.log("こんにちは");
+	}
+	greeting();
 </script>
 
 <main>
-	<h1>Hello{name}!</h1>
+	<h1>Hello{name + asa}!</h1>
 	<p>Visit the <a href="https://svelte.dev/tutorial">Svelte tutorial</a> to learn how to build Svelte apps.</p>
 </main>
 
